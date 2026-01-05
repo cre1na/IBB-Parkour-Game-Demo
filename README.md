@@ -1,6 +1,6 @@
 # 2D Platformer Demo (Unity)
 
-This is my first Unity project: a simple 2D platformer demo.  
+This is my first Unity project: a simple 2D platformer learning project.  
 The player respawns when falling and progresses to the next level upon touching IBB public transport–themed items.  
 Graphics are minimal, with a primary focus on gameplay mechanics and coding.
 
