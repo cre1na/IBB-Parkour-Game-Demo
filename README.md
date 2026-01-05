@@ -20,6 +20,7 @@ Graphics are minimal, with a primary focus on gameplay mechanics and coding.
 ## Notes
 - Graphics are intentionally minimal as this is a learning project
 - The main focus is on gameplay mechanics and scripting
+- This repository contains the core gameplay scripts only. Visual assets and build files are excluded.
 - This game was created solely for learning purposes. :)
 
 
