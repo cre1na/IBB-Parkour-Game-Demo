@@ -1,9 +1,6 @@
 # IBB-Parkour-Game-Demo
 
 
-Oynamak için **exe dosyasına tıklayın**  
-
-
 
 My first Unity project: a simple 2D platformer demo. The player respawns when falling and progresses to the next level upon touching IBB public transport-themed items. Minimal graphics, focused on gameplay mechanics and coding.
 
@@ -27,5 +24,6 @@ My first Unity project: a simple 2D platformer demo. The player respawns when fa
 ##Notes
 -Graphics are minimal since this is a learning project.
 -Focus is on gameplay mechanics and scripting.
+-I would like to emphasize that this game was created solely for learning purposes. :)
 
-:)
+
